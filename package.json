@@ -1,0 +1,21 @@
+{
+  "name": "backendjs",
+  "version": "1.0.0",
+  "description": "back end of app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "Matipa",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^7.2.1",
+    "express": "^4.18.2",
+    "twilio": "^4.10.0",
+    "ussd-menu-builder": "^1.2.0"
+  }
+}
